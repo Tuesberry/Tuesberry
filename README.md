@@ -1,5 +1,5 @@
 ### KyeongSuk Park
-#### About Me -> [Click here](https://drive.google.com/drive/folders/1P1VzHwFkL1XFRHH_IaK__CZuC2EIThL5?usp=sharing)
+#### About Me -> [Click here](https://tuesberry.notion.site/KyeongSuk-Park-41be28da142a4c63ad2e8e049df787d8)
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuesberry&layout=compact"><br><br>
