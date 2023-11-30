@@ -1,6 +1,4 @@
 ### 👋 Hi there!
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://dev-tuesberry.tistory.com/)](https://dev-tuesberry.tistory.com/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://tuesberry.notion.site/KyeongSuk-Park-41be28da142a4c63ad2e8e049df787d8)](https://tuesberry.notion.site/KyeongSuk-Park-41be28da142a4c63ad2e8e049df787d8)
 <!--
 **Tuesberry/Tuesberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
